@@ -14,7 +14,7 @@ This repository contains:
 
 2. **wine.csv** &mdash; The dataset used by the notebook (178 × 14, no preprocessing required).
 
-3. **README.md** &mdash; (this file) quick-start instructions.
+3. **README.md** &mdash; quick-start instructions.
 
 ---
 
