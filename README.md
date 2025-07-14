@@ -67,6 +67,4 @@ $ jupyter notebook analysis.ipynb
 *Exact numbers may vary slightly by random state.*
 
 ---
-
-### Author
-Generated automatically by ChatGPT-4 at user request.
+#Aaryan Choudhary
